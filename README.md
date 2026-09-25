@@ -84,4 +84,3 @@ Focus: Trainer / save / resources
 ## Disclaimer
 
 Independent community project theme; not affiliated with the game developer, publisher, Steam, Valve, WeMod or other trainer providers.
-                                                                                                    
